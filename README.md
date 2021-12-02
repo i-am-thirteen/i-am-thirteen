@@ -1,17 +1,10 @@
-<head>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
-<style>
-  body {
-  font-family: "Roboto", sans-serif;
-}
-</style>
-</head>
-<body>
+
 <p align="center">
   <img src="https://firecast.app/wp-content/uploads/2021/03/logo1024x1024no_padding-300x300.png" />
 </p>
 
-# RRPG Firecast
+<h1 style="font-family:'Roboto'">RRPG Firecast</h1>
 
 Esse repositório foi criado com o intuito de armazenar o código de projetos relacionados ao RRPG Firecast, o maior programa para jogos online de mesa do Brasil.  
 
@@ -45,4 +38,3 @@ Esse repositório foi criado com o intuito de armazenar o código de projetos re
 Se é novo por aqui e deseja conhecer o programa, visite o site do [**RRPG Firecast**](https://firecast.app/pt_br/).  
 Para ajuda com o funcionamento dos plugins, veja a documentação do [**RRPG SDK 3**](http://www.rrpg.com.br/sdk3/RRPG%20SDK%203.html?Introducao.html).  
 Para dúvidas e ajuda, visite a [**Wiki**](http://wiki.rrpg.com.br) do RPPG Firecast, o nosso grupo do [**Facebook**](https://www.facebook.com/groups/460782814000421/), ou o nosso servidor no [**Discord**](https://discord.gg/dqbJ66Gh95).  
-</body>
