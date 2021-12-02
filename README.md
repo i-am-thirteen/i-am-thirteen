@@ -38,3 +38,4 @@ Esse repositório foi criado com o intuito de armazenar o código de projetos re
 Se é novo por aqui e deseja conhecer o programa, visite o site do [**RRPG Firecast**](https://firecast.app/pt_br/).  
 Para ajuda com o funcionamento dos plugins, veja a documentação do [**RRPG SDK 3**](http://www.rrpg.com.br/sdk3/RRPG%20SDK%203.html?Introducao.html).  
 Para dúvidas e ajuda, visite a [**Wiki**](http://wiki.rrpg.com.br) do RPPG Firecast, o nosso grupo do [**Facebook**](https://www.facebook.com/groups/460782814000421/), ou o nosso servidor no [**Discord**](https://discord.gg/dqbJ66Gh95).  
+<span style="font-family: 'Lucida Console';">foo</span>
